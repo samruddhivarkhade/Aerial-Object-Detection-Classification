@@ -1,8 +1,8 @@
-ultralytics==8.2.103
+ultralytics
 torch
 torchvision
 torchaudio
-opencv-python
+opencv-python-headless
 numpy
 Pillow
 streamlit
